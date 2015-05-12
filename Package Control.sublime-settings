@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"CSS Format",
+		"Cucumber",
+		"EditorConfig",
+		"Gherkin (Cucumber) Formatter",
+		"Gist",
+		"Indent XML",
+		"JavaScriptNext - ES6 Syntax",
+		"JSCS-Formatter",
+		"Markdown Preview",
+		"Modific",
+		"Package Control",
+		"Seti_UI",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Theme - Soda",
+		"TortoiseSVN"
+	]
+}
